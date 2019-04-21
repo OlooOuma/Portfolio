@@ -1,6 +1,55 @@
-img{
-    height: 200px;
-    width: 250px;
-    border-radius: 50%;
+.container {
+    position: relative;
     text-align: center;
+    color: black;
+  }
+.intro {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    text-size-adjust: 30%;
+    transform: translate(-50%, -50%);
+  }
+.intro1 {
+    position: absolute;
+    bottom: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+/* .ouma{
+    text-align: center;
+} */
+nav{
+    padding: 20px;
+    float: right;
+    background-color: cadetblue;
+    width: 100%;
+    padding-bottom: -10px;
+}
+nav ul li{
+    display: inline;
+  }
+  nav ul li a{
+    text-decoration: none;
+    padding: 10px;
+  }
+header>nav{
+    display: inline;
+}
+img{
+    width: 100%;
+    height: 40%;
+}
+.oloo{
+    text-align: center;
+    /* padding-top: 50px; */
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+span{
+    font-weight: bold;
+}
+.oloo>img{
+    height: 270px;
+    width: 285px;
+    border-radius: 50%;
 }
