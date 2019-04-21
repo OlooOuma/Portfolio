@@ -9,7 +9,7 @@
     left: 50%;
     text-size-adjust: 30%;
     transform: translate(-50%, -50%);
-    color: whitesmoke;
+    color: saddlebrown;
   }
 .intro1 {
     color: royalblue;
@@ -58,4 +58,7 @@ footer{
 }
 *h2{
     text-align: center;
+}
+.about{
+    display: flex;
 }
