@@ -45,7 +45,6 @@ img{
 }
 .oloo{
     text-align: center;
-    /* padding-top: 50px; */
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 span{
@@ -57,7 +56,7 @@ span{
     border-radius: 50%;
 }
 footer{
-    background-color: cornflowerblue;
+    background-color: darkgray;
     text-align: center;
 }
 *h2{
