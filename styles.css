@@ -24,7 +24,7 @@ nav{
     float: right;
     background-color: midnightblue;
     width: 100%;
-    
+    text-align: center;
 }
 nav ul li{
     display: inline;
