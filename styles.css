@@ -65,6 +65,9 @@ footer{
 .about{
     display: flex;
 }
-.contacts{
-    background-color: darkgray;
+.interests{
+    margin-left: 125px;
+}
+.contact{
+  margin-left: 100px;
 }
